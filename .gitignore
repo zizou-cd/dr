@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+pip-wheel-metadata/
+
+# VSCode / Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Flask/Static cache
+instance/
+*.log
+
