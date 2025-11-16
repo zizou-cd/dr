@@ -1,4 +1,4 @@
-# Dr. Abdelaziz Guitouni — Portfolio (Flask)
+#  — Portfolio (Flask)
 
 Mobile-first, professional, English-only, no header. Photo supported (use static/images/photo.jpg).
 
